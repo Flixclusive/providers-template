@@ -77,3 +77,8 @@ Follow these steps to set up and create your own provider:
 If you encounter any issues or have questions, feel free to join the discord community and ask for guidance there.
 
 <a href="https://discord.gg/7yPSPveReu"><img src="https://img.shields.io/discord/1255770492049162240?label=discord&labelColor=7289da&color=2c2f33&style=for-the-badge" alt="Discord"></a>
+#### List of available providers:
+| Name          | Status    |
+| :-----------  | :-------  |
+| BasicDummyWebViewProvider | 🟢 OK |
+| BasicDummyProvider | 🟢 OK |
